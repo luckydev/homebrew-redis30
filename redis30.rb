@@ -1,4 +1,4 @@
-class Redis < Formula
+class Redis30 < Formula
   desc "Persistent key-value database, with built-in net interface"
   homepage "http://redis.io/"
   url "http://download.redis.io/releases/redis-3.0.3.tar.gz"
